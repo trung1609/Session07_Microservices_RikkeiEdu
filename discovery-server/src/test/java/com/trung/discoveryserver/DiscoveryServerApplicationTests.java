@@ -1,10 +1,10 @@
-package com.api.medicaldiscoveryserver;
+package com.trung.discoveryserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MedicalDiscoveryServerApplicationTests {
+class DiscoveryServerApplicationTests {
 
     @Test
     void contextLoads() {

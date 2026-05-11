@@ -1,0 +1,13 @@
+encrypt:
+    key: MEDICAL_KEY_SECRET_2026
+server:
+    port: 8888
+spring:
+    application:
+        name: config-server
+    cloud:
+        config:
+            server:
+                default-label: main
+                git:
+                    uri: https://github.com/trung1609/medical-config-repo.git

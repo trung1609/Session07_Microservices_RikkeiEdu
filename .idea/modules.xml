@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/btvn.iml" filepath="$PROJECT_DIR$/.idea/btvn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.api.medical-gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.api.medical-gateway.main.iml" />
     </modules>
   </component>
 </project>
